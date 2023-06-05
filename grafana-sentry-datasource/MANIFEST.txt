@@ -1,0 +1,37 @@
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+{
+  "manifestVersion": "2.0.0",
+  "signatureType": "grafana",
+  "signedByOrg": "grafana",
+  "signedByOrgName": "Grafana Labs",
+  "plugin": "grafana-sentry-datasource",
+  "version": "1.2.1",
+  "time": 1683217152943,
+  "keyId": "7e4d0c6a708866e7",
+  "files": {
+    "CHANGELOG.md": "7f9f0a60254d9d92196f93d38094bd19839049ea8b75c13abcaa9f5cd1b2e6e6",
+    "LICENSE": "41ae8dfc86c8d72188342ac70498b32fc8be1362396e663bc6145542b0bb34ca",
+    "README.md": "a6dad99bb64156df5f88fd60abf2509027a92d8956375cff16f53e8f170507a7",
+    "go_plugin_build_manifest": "4593202e4207e790135329370a7c45980422dcf225dec84fadd372f4faecdf97",
+    "gpx_sentry-datasource_linux_amd64": "3f355a4811f973057d802cc2db25acd8ff991f60008a6ec0e037bdd380de7d15",
+    "img/sentry-large.svg": "157061e890fb8dbc6c3ba7909c5af5b465fc646e3a34251d210bd62832ff45f0",
+    "img/sentry-small.svg": "9be19bfde2c7838d55e1128219cace4c4a998285275527d318740d5c8c1bc9c2",
+    "module.js": "5aa099fd577a58ea45f4544be8b7bc987b221a461e073081295d6cc1d86a87f6",
+    "module.js.map": "22fb70760a2c05a767997ef374ddd0902752f4ddb85494b49c9eb90b4adf7833",
+    "plugin.json": "350c0d394cb1b1ce27aeb7138a1a2648c4c6baf40927324c9870447dddfa1339"
+  }
+}
+-----BEGIN PGP SIGNATURE-----
+Version: OpenPGP.js v4.10.10
+Comment: https://openpgpjs.org
+
+wrkEARMKAAYFAmRT2wEAIQkQfk0ManCIZucWIQTzOyW2kQdOhGNlcPN+TQxq
+cIhm55+uAgkBxi53NFJZBVXIZLBhOGeA7ZGyfyR9IKCrQhQOqnhwvRx35G0s
+LeXlT2+IkLnoJ40BwaNrblSMrwLVfKfdcqwXHOcCCQGvOFvda0GClSSCpjoS
+HzU+JJofSkMydy4/7gRgObNErRwd/6wX21HqTTuAYoKm41uxqp5Pm88HZ7oW
++cjLNxo+KA==
+=G7TB
+-----END PGP SIGNATURE-----
